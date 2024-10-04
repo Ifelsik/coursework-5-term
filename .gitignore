@@ -1,3 +1,5 @@
+# exclude directories
 __Previews/
 dump/
 History/
+Project Logs for coursework/
